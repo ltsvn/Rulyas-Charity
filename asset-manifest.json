@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/Rulyas-Charity/static/css/main.2c74dafe.css",
+    "main.js": "/Rulyas-Charity/static/js/main.5639c9cd.js",
+    "static/js/787.735f4c29.chunk.js": "/Rulyas-Charity/static/js/787.735f4c29.chunk.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/Rulyas-Charity/static/media/fontawesome-webfont.e971fd0edbf168dd0045.svg",
+    "static/media/themify.svg?-fvbane": "/Rulyas-Charity/static/media/themify.f0fc8c798eac5636249c.svg",
+    "static/media/fontawesome-webfont.eot": "/Rulyas-Charity/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/Rulyas-Charity/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/Rulyas-Charity/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/themify.eot": "/Rulyas-Charity/static/media/themify.9bad94440d49256265a5.eot",
+    "static/media/themify.ttf?-fvbane": "/Rulyas-Charity/static/media/themify.eda8b94308c6f538f04a.ttf",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/Rulyas-Charity/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/themify.woff?-fvbane": "/Rulyas-Charity/static/media/themify.29b39089170885ae2967.woff",
+    "static/media/error-404.png": "/Rulyas-Charity/static/media/error-404.081eb3829b3d6fc015c3.png",
+    "static/media/Flaticon.svg": "/Rulyas-Charity/static/media/Flaticon.6f6026781fd81c867cd0.svg",
+    "static/media/slide-1.jpg": "/Rulyas-Charity/static/media/slide-1.119d98abc12ebe345d43.jpg",
+    "static/media/slide-3.jpg": "/Rulyas-Charity/static/media/slide-3.119d98abc12ebe345d43.jpg",
+    "static/media/slide-4.jpg": "/Rulyas-Charity/static/media/slide-4.119d98abc12ebe345d43.jpg",
+    "static/media/slide-5.jpg": "/Rulyas-Charity/static/media/slide-5.119d98abc12ebe345d43.jpg",
+    "static/media/slide-7.jpg": "/Rulyas-Charity/static/media/slide-7.119d98abc12ebe345d43.jpg",
+    "static/media/cta.jpg": "/Rulyas-Charity/static/media/cta.6bf270f83d204c8ea136.jpg",
+    "static/media/Flaticon.eot": "/Rulyas-Charity/static/media/Flaticon.78dddbc71bc43375bada.eot",
+    "static/media/Flaticon.ttf": "/Rulyas-Charity/static/media/Flaticon.46b609ed8a9c8077993a.ttf",
+    "static/media/Flaticon.woff": "/Rulyas-Charity/static/media/Flaticon.46882396bf35842a49aa.woff",
+    "static/media/Flaticon.woff2": "/Rulyas-Charity/static/media/Flaticon.cdb20be337c8f9be1511.woff2",
+    "static/media/slick.svg": "/Rulyas-Charity/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Rulyas-Charity/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Rulyas-Charity/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/close.svg": "/Rulyas-Charity/static/media/close.d0690aa795f06bb679bfa90bd520bc26.svg",
+    "static/media/slick.woff": "/Rulyas-Charity/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Rulyas-Charity/index.html",
+    "main.2c74dafe.css.map": "/Rulyas-Charity/static/css/main.2c74dafe.css.map",
+    "main.5639c9cd.js.map": "/Rulyas-Charity/static/js/main.5639c9cd.js.map",
+    "787.735f4c29.chunk.js.map": "/Rulyas-Charity/static/js/787.735f4c29.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c74dafe.css",
+    "static/js/main.5639c9cd.js"
+  ]
+}
