@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Rulyas-Charity/static/css/main.2c74dafe.css",
-    "main.js": "/Rulyas-Charity/static/js/main.5639c9cd.js",
+    "main.js": "/Rulyas-Charity/static/js/main.d2102e68.js",
     "static/js/787.735f4c29.chunk.js": "/Rulyas-Charity/static/js/787.735f4c29.chunk.js",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/Rulyas-Charity/static/media/fontawesome-webfont.e971fd0edbf168dd0045.svg",
     "static/media/themify.svg?-fvbane": "/Rulyas-Charity/static/media/themify.f0fc8c798eac5636249c.svg",
@@ -31,11 +31,11 @@
     "static/media/slick.woff": "/Rulyas-Charity/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/Rulyas-Charity/index.html",
     "main.2c74dafe.css.map": "/Rulyas-Charity/static/css/main.2c74dafe.css.map",
-    "main.5639c9cd.js.map": "/Rulyas-Charity/static/js/main.5639c9cd.js.map",
+    "main.d2102e68.js.map": "/Rulyas-Charity/static/js/main.d2102e68.js.map",
     "787.735f4c29.chunk.js.map": "/Rulyas-Charity/static/js/787.735f4c29.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2c74dafe.css",
-    "static/js/main.5639c9cd.js"
+    "static/js/main.d2102e68.js"
   ]
 }
