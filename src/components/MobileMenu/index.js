@@ -8,23 +8,23 @@ const menus = [
         id: 1,
         title: 'Home',
         link: '/home',
-        submenu: [
-            {
-                id: 11,
-                title: 'Home style 1',
-                link: '/home'
-            },
-            {
-                id: 12,
-                title: 'Home style 2',
-                link: '/home2'
-            },
-            {
-                id: 13,
-                title: 'Home style 3',
-                link: '/home3'
-            },
-        ]
+        // submenu: [
+        //     {
+        //         id: 11,
+        //         title: 'Home style 1',
+        //         link: '/home'
+        //     },
+        //     {
+        //         id: 12,
+        //         title: 'Home style 2',
+        //         link: '/home2'
+        //     },
+        //     {
+        //         id: 13,
+        //         title: 'Home style 3',
+        //         link: '/home3'
+        //     },
+        // ]
     },
 
     {
@@ -50,23 +50,23 @@ const menus = [
             }
         ]
     },
-{
-    id: 4,
-        title: 'Event',
-        link: '/event',
-        submenu: [
-            {
-                id: 41,
-                title: 'Event',
-                link: '/event'
-            },
-            {
-                id: 42,
-                title: 'Event Single',
-                link: '/event-details'
-            }
-        ]
-    },
+// {
+//     id: 4,
+//         title: 'Event',
+//         link: '/event',
+//         submenu: [
+//             {
+//                 id: 41,
+//                 title: 'Event',
+//                 link: '/event'
+//             },
+//             {
+//                 id: 42,
+//                 title: 'Event Single',
+//                 link: '/event-details'
+//             }
+//         ]
+//     },
     {
         id: 7,
         title: 'Pages',
@@ -93,57 +93,57 @@ const menus = [
                 title: 'Error 404',
                 link: '/404'
             },
-            {
-                id: 80,
-                title: 'Shop',
-                link: '/shop'
-            },
-            {
-                id: 81,
-                title: 'Shop Single',
-                link: '/shop-single'
-            },
+            // {
+            //     id: 80,
+            //     title: 'Shop',
+            //     link: '/shop'
+            // },
+            // {
+            //     id: 81,
+            //     title: 'Shop Single',
+            //     link: '/shop-single'
+            // },
             
         ]
     },
 
-    {
-        id: 5,
-        title: 'Blog',
-        link: '/blog',
-        submenu: [
-            {
-                id: 51,
-                title: 'Blog',
-                link: '/blog'
-            },
-            {
-                id: 52,
-                title: 'Blog Left sidebar',
-                link: '/blog-left'
-            },
-            {
-                id: 53,
-                title: 'Blog full width',
-                link: '/blog-fullwidth'
-            },
-            {
-                id: 54,
-                title: 'Blog single',
-                link: '/blog-details'
-            },
-            {
-                id: 55,
-                title: 'Blog single Left sidebar',
-                link: '/blog-details-left'
-            },
-            {
-                id: 56,
-                title: 'Blog single Left sidebar',
-                link: '/blog-details-fullwidth'
-            },
-        ]
-    },
+    // {
+    //     id: 5,
+    //     title: 'Blog',
+    //     link: '/blog',
+    //     submenu: [
+    //         {
+    //             id: 51,
+    //             title: 'Blog',
+    //             link: '/blog'
+    //         },
+    //         {
+    //             id: 52,
+    //             title: 'Blog Left sidebar',
+    //             link: '/blog-left'
+    //         },
+    //         {
+    //             id: 53,
+    //             title: 'Blog full width',
+    //             link: '/blog-fullwidth'
+    //         },
+    //         {
+    //             id: 54,
+    //             title: 'Blog single',
+    //             link: '/blog-details'
+    //         },
+    //         {
+    //             id: 55,
+    //             title: 'Blog single Left sidebar',
+    //             link: '/blog-details-left'
+    //         },
+    //         {
+    //             id: 56,
+    //             title: 'Blog single Left sidebar',
+    //             link: '/blog-details-fullwidth'
+    //         },
+    //     ]
+    // },
     {
         id: 88,
         title: 'Contact',

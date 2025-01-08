@@ -13,7 +13,7 @@ import BlogSection from '../../components/BlogSection'
 import Newsletter from '../../components/Newsletter'
 import Footer from '../../components/footer'
 import abimg from '../../images/Volunteers.jpg'
-import hero1 from '../../images/slider/slide-7.jpg'
+import hero1 from '../../images/slider/slide-7.jpeg'
 
 import Scrollbar from '../../components/scrollbar'
 
@@ -27,12 +27,12 @@ const HomePage =() => {
             <About AbImg={abimg}/>
             <Causes/>
             <CounterSection/>
-            <Gallery/>
+            {/*<Gallery/>*/}
             <TeamSection/>
-            <EventSection/>
+            {/*<EventSection/>*/}
             <CtaSection/>
-            <BlogSection/>
-            <Newsletter/>
+            {/*<BlogSection/>*/}
+            {/*<Newsletter/>*/}
             <Footer/>
             <Scrollbar/>
         </Fragment>

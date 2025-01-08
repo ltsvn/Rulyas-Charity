@@ -122,6 +122,9 @@ nav ul ul ul {
 	transition: all .5s;
 }
 
+.row{
+	justify-content: space-between;
+}
 
 header.fixed,
 header.fixed.style2,
@@ -195,7 +198,14 @@ header.fixed .header-content {
 	}
 }
 
-
+.call-btn {
+	background: #f67d4a;
+	font-weight: 500;
+	padding: 10px 20px;
+	border-radius: 5px;
+	display: inline-block;
+	margin-right: 20px;
+}
 
 
 .header-style-2 .cart-search-contact, .header-style-3 .cart-search-contact {

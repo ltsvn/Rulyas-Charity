@@ -31,12 +31,12 @@ const AllRoute = () => {
 
   return (
     <div className="App">
-      <BrowserRouter>
+      <BrowserRouter basename={process.env.NODE_ENV === "production" ? "/Rulyas-Charity" : "/"}>
         <Routes>
-          <Route exact path='/' element={<Homepage />} />
-          <Route path='/home' element={<Homepage />} />
-          <Route path='/home2' element={<Homepage2 />} />
-          <Route path='/home3' element={<Homepage3 />} />
+          <Route exact path='/' element={<Homepage3 />} />
+          {/*<Route path='/home' element={<Homepage />} />*/}
+          {/*<Route path='/home2' element={<Homepage2 />} />*/}
+          <Route path='/home' element={<Homepage3 />} />
           <Route path='/about' element={<AboutPage />} />
           <Route path='/shop' element={<ShopPage />} />
           <Route path='/gallery' element={<GalleryPage />} />

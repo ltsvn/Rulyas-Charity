@@ -18,9 +18,7 @@ const HeaderTopbar = () => {
                     <div className="col col-md-6 col-sm-12 col-12">
                         <div className="contact-info">
                             <ul>
-                                <li><Link to="/login">Login</Link></li>
-                                <li><Link to="/signup">Sign Up</Link></li>
-                                <li><Link className="theme-btn" to="/donate">Donate Now</Link></li>
+                                <li>«Русский военный корабль, иди на хуй!»</li>
                             </ul>
                         </div>
                     </div>

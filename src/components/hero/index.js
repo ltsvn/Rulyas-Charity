@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom'
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 
-import hero2 from '../../images/slider/slide-3.jpg'
+import hero2 from '../../images/slider/slide-3.webp'
 import hero3 from '../../images/slider/slide-4.jpg'
 
 import './style.css'
@@ -17,11 +17,11 @@ class Hero extends Component {
         var settings = {
             dots: false,
             arrows: true,
-            speed: 1200,
+            speed: 3000,
             slidesToShow: 1,
             slidesToScroll: 1,
             autoplay: true,
-            autoplaySpeed: 2500,
+            autoplaySpeed: 3000,
             fade: true
         };
 
