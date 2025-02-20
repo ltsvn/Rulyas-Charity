@@ -12,7 +12,7 @@ import CtaSection from '../../components/cta'
 import BlogSection from '../../components/BlogSection'
 import Newsletter from '../../components/Newsletter'
 import Footer from '../../components/footer'
-import abimg from '../../images/Volunteers.jpg'
+import abimg from '../../images/Volunteers.webp'
 import hero1 from '../../images/slider/slide-7.jpeg'
 
 import Scrollbar from '../../components/scrollbar'
@@ -26,9 +26,9 @@ const HomePage =() => {
             <Features/>
             <About AbImg={abimg}/>
             <Causes/>
-            <CounterSection/>
+            {/*<CounterSection/>*/}
             {/*<Gallery/>*/}
-            <TeamSection/>
+            {/*<TeamSection/>*/}
             {/*<EventSection/>*/}
             <CtaSection/>
             {/*<BlogSection/>*/}

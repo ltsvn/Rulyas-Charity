@@ -86,12 +86,11 @@ const Footer = (props) =>{
                                 <div className="widget-title">
                                     <h3>Contact </h3>
                                 </div>
-                                <p>online store with lots of cool and exclusive tp-features</p>
                                 <div className="contact-ft">
                                     <ul>
-                                        <li><i className="fi flaticon-pin"></i>28 Street, New York City, USA</li>
-                                        <li><i className="fi flaticon-call"></i>+000123456789</li>
-                                        <li><i className="fi flaticon-envelope"></i>Sadakat@gmail.com</li>
+                                        <li><i className="fi flaticon-pin"></i>вул.Київський Шлях 71А, м.Бориспіль, Україна</li>
+                                        <li><i className="fi flaticon-call"></i>+380969772646</li>
+                                        <li><i className="fi flaticon-envelope"></i>info@rulyascharity.com</li>
                                     </ul>
                                 </div>
                             </div>
@@ -118,7 +117,7 @@ const Footer = (props) =>{
                 <div className="container">
                     <div className="row">
                         <div className="col col-xs-12">
-                            <p className="copyright">&copy; 2021 Sadakat. All rights reserved</p>
+                            <p className="copyright">&copy; 2025 Rulya's Charity. All rights reserved</p>
                         </div>
                     </div>
                 </div>

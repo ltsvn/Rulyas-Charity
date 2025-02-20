@@ -11,9 +11,7 @@ const DonatePage =() => {
     return(
         <Fragment>
             <Navbar3/>
-            <PageTitle pageTitle={'Donate Now'} pagesub={'Donate'}/> 
             <Donate/>
-            <Newsletter/>
             <Footer/>
             <Scrollbar/>
         </Fragment>

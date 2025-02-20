@@ -1,7 +1,7 @@
 /* ===================== HEADER ======================*/
 
 .logo {
-	margin-top: 30px;
+	/*margin-top: 30px;*/
 }
 .logo a{
 	display: -webkit-flex;
@@ -22,7 +22,7 @@
 	color: #212122;
 }
 .logo img{
-	max-width: 180px;
+	max-width: 115px;
 }
 .middle-header {
     position: absolute;

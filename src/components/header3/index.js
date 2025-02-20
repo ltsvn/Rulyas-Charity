@@ -5,6 +5,7 @@ import HeaderTopbar from '../HeaderTopbar'
 import MobileMenu from '../MobileMenu'
 import min1 from '../../images/shop/mini/img-1.jpg'
 import min2 from '../../images/shop/mini/img-2.jpg'
+import './style.css'
 
 
 const Header3 = (props) => {
@@ -39,12 +40,7 @@ const Header3 = (props) => {
                                     {/*</ul>*/}
                                 </li>
                                 {/*<li><Link onClick={ClickHandler} to="/about" title="">About</Link></li>*/}
-                                <li><Link onClick={ClickHandler} to="/case" title="">Проекти</Link>
-                                    <ul>
-                                        <li><Link onClick={ClickHandler} to="/case" title="">Causes</Link></li>
-                                        <li><Link onClick={ClickHandler} to="/case-single" title="">Causes Single</Link></li>
-                                    </ul>
-                                </li>
+                                <li><Link onClick={ClickHandler} to="/case" title="">Проекти</Link></li>
                                 {/*<li><Link onClick={ClickHandler} to="/event" title="">Event</Link>*/}
                                 {/*    <ul>*/}
                                 {/*        <li><Link onClick={ClickHandler} to="/event" title="">Event</Link></li>*/}
@@ -79,7 +75,7 @@ const Header3 = (props) => {
                                 {/*        </li>*/}
                                 {/*    </ul>*/}
                                 {/*</li>*/}
-                                <li><Link onClick={ClickHandler} to="/contact" title="">Реквізити</Link></li>
+                                <li><Link onClick={ClickHandler} to="/donate" title="">Реквізити</Link></li>
                                 <li><Link className="theme-btn" to="/donate">Підтримати ЗСУ</Link></li>
                             </ul>
                         </nav>

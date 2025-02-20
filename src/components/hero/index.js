@@ -33,15 +33,13 @@ class Hero extends Component {
                             <div className="container">
                                 <div className="col col-lg-6 slide-caption">
                                     <div className="slide-title">
-                                        <h2>Let’s be Kind for <span>Children</span></h2>
+                                        <h2>Разом до перемоги:<span>підтримайте тих, хто боронить нашу свободу!</span></h2>
                                     </div>
                                     <div className="slide-subtitle">
-                                        <p>High Quality Charity Theme in Envato Market.</p>
-                                        <p>You Can Satisfied Yourself By Helping.</p>
+                                        <p>Допоможіть нашим героям сьогодні, щоб вони змогли захищати наше завтра.</p>
                                     </div>
                                     <div className="btns">
-                                        <Link to="/donate" className="theme-btn">Donate Now</Link>
-                                        <Link to="/about" className="theme-btn-s2">Know More</Link>
+                                        <Link to="/donate" className="theme-btn">Підтримати зараз</Link>
                                     </div>
                                 </div>
                             </div>
@@ -52,15 +50,13 @@ class Hero extends Component {
                              <div className="container">
                                 <div className="col col-lg-6 slide-caption">
                                     <div className="slide-title">
-                                        <h2>Let’s be Kind for <span>Children</span></h2>
+                                        <h2>Разом до перемоги:<span>підтримайте тих, хто боронить нашу свободу!</span></h2>
                                     </div>
                                     <div className="slide-subtitle">
-                                        <p>High Quality Charity Theme in Envato Market.</p>
-                                        <p>You Can Satisfied Yourself By Helping.</p>
+                                        <p>Допоможіть нашим героям сьогодні, щоб вони змогли захищати наше завтра.</p>
                                     </div>
                                     <div className="btns">
-                                        <Link to="/donate" className="theme-btn">Donate Now</Link>
-                                        <Link to="/about" className="theme-btn-s2">Know More</Link>
+                                        <Link to="/donate" className="theme-btn">Підтримати зараз</Link>
                                     </div>
                                 </div>
                             </div>
@@ -71,15 +67,13 @@ class Hero extends Component {
                             <div className="container">
                                 <div className="col col-lg-6 slide-caption">
                                     <div className="slide-title">
-                                        <h2>Let’s be Kind for <span>Children</span></h2>
+                                        <h2>Разом до перемоги:<span>підтримайте тих, хто боронить нашу свободу!</span></h2>
                                     </div>
                                     <div className="slide-subtitle">
-                                        <p>High Quality Charity Theme in Envato Market.</p>
-                                        <p>You Can Satisfied Yourself By Helping.</p>
+                                        <p>Допоможіть нашим героям сьогодні, щоб вони змогли захищати наше завтра.</p>
                                     </div>
                                     <div className="btns">
-                                        <Link to="/donate" className="theme-btn">Donate Now</Link>
-                                        <Link to="/about" className="theme-btn-s2">Know More</Link>
+                                        <Link to="/donate" className="theme-btn">Підтримати зараз</Link>
                                     </div>
                                 </div>
                             </div>

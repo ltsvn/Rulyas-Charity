@@ -15,22 +15,23 @@ const About = (props) => {
                     <div className="col-lg-6 col-sm-12 col-12">
                         <div className="about-img">
                             <img src={props.AbImg} alt=""/>
-                            <VideoModal/>
+                            {/*<VideoModal/>*/}
                         </div>
                     </div>
                     <div className="col-lg-6 col-sm-12 col-12">
                         <div className="about-content">
                             <div className="section-title">
-                                <h2>About Us</h2>
+                                <h2>Хто ми?</h2>
                             </div>
-                            <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classNameical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at ,sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum</p>
-                            <p> and going through the cites of the word in classNameical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum,Contrary to popular belief, Lorem Ipsum is not simply random text.</p>
+                            <p>Благодійний Фонд Позивний «Руля» створений з любов’ю та вдячністю в пам’ять про Героя з позивним «Руля», який віддав своє життя за свободу України. Засновником фонду є його батько, військовослужбовець, який не з чуток знає про біль втрати.</p>
+                            <p> Цей фонд — це спосіб перетворити скорботу в силу. Його місія — підтримати наших захисників, щоб вони якнайшвидше здобули перемогу і зупинили хвилю втрат, які ламають серця родин по всій країні.</p>
+                            <p> Ми віримо, що кожна людина може зробити свій внесок у перемогу. Разом ми сильніші, разом ми здатні побудувати майбутнє, де більше ніхто не буде втрачати своїх рідних і друзів через війну.</p>
                             <div className="btns">
-                                <div><Link  onClick={ClickHandler} className="theme-btn" to="/about">More About Us..</Link></div>
+                                <div><Link  onClick={ClickHandler} className="theme-btn" to="/donate">Дізнатися більше про наші проекти</Link></div>
                             </div>
-                            <div className="signature">
-                                <img src={abimg2} alt=""/>
-                            </div>
+                            {/*<div className="signature">*/}
+                            {/*    <img src={abimg2} alt=""/>*/}
+                            {/*</div>*/}
                         </div>
                     </div>
                 </div>

@@ -1,11 +1,8 @@
 import React from 'react';
 import { BrowserRouter, Routes, Route, } from "react-router-dom";
 
-import Homepage from '../HomePage'
-import Homepage2 from '../HomePage2'
 import Homepage3 from '../HomePage3'
 import AboutPage from '../AboutPage'
-import ShopPage from '../ShopPage'
 import GalleryPage from '../GalleryPage'
 import ShopSinglePage from '../ShopSinglePage'
 import CausePage from '../CasePage'
@@ -38,7 +35,7 @@ const AllRoute = () => {
           {/*<Route path='/home2' element={<Homepage2 />} />*/}
           <Route path='/home' element={<Homepage3 />} />
           <Route path='/about' element={<AboutPage />} />
-          <Route path='/shop' element={<ShopPage />} />
+          {/*<Route path='/shop' element={<ShopPage />} />*/}
           <Route path='/gallery' element={<GalleryPage />} />
           <Route path='/shop-single' element={<ShopSinglePage />} />
           <Route path='/case' element={<CausePage />} />
